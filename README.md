@@ -39,7 +39,7 @@
 （1）`frac`提取输入值的小数部分，可生成周期性的数值  
 （2）`lerp(a, b, t)`线性插值 返回a+(b-a)*t  
 ## DAY 12  
-1.  屏幕后处理（bloom 运动模糊）
+1.  屏幕后处理（bloom 运动模糊）  
 （1）`float clamp(float x, float min, float max);`  
 将输入值约束在指定的最小值和最大值之间，确保结果始终落在 [min, max] 的区间内。
 ## DAY 13 复述屏幕后处理
